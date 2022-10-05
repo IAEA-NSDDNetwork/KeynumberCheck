@@ -7,8 +7,10 @@ Please address any feedback to Jun Chen chenj@nscl.msu.edu
 
 ## Change history
 
-#### 2019-04
+#### 2021-09
+Bug fixes
 
+#### 2019-04
 Version 12-04-2019
 
 ## Disclaimer

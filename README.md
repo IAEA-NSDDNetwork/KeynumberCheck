@@ -1,4 +1,4 @@
-# CheckKeynumber
+# KeynumberCheck
 Checks possible missing references by searching NSR database and write them into the output. 
 
 CheckKeynumber is part of the [ENSDF Analysis and Utility Programs](https://nds.iaea.org/public/ensdf_pgm/).

@@ -1,7 +1,7 @@
 # KeynumberCheck
 Checks possible missing references by searching NSR database and write them into the output. 
 
-CheckKeynumber is part of the [ENSDF Analysis and Utility Programs](https://nds.iaea.org/public/ensdf_pgm/).
+KeynumberCheck is part of the [ENSDF Analysis and Utility Programs](https://nds.iaea.org/public/ensdf_pgm/).
 
 Please address any feedback to Jun Chen chenj@frib.msu.edu
 

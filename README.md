@@ -3,9 +3,12 @@ Checks possible missing references by searching NSR database and write them into
 
 CheckKeynumber is part of the [ENSDF Analysis and Utility Programs](https://nds.iaea.org/public/ensdf_pgm/).
 
-Please address any feedback to Jun Chen chenj@nscl.msu.edu
+Please address any feedback to Jun Chen chenj@frib.msu.edu
 
 ## Change history
+
+#### 2023-05
+Bug fixes and improvements
 
 #### 2021-09
 Bug fixes

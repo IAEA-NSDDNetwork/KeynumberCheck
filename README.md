@@ -7,6 +7,10 @@ Please address any feedback to Jun Chen chenj@frib.msu.edu
 
 ## Change history
 
+#### 2024-06
+Update NSR retrieval methods with the new NSR search engine (online Jun 2024).
+Note that all previous versions using the old NSR search engine are no longer working due to the offline of the old NSR. 
+
 #### 2023-05
 Bug fixes and improvements
 
